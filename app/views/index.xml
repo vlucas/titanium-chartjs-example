@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		<Button id="btnChartsjs" onClick="clickChartsjs" top="50%">Charts.js Example</Button>
+	</Window>
+</Alloy>

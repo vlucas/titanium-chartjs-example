@@ -1,0 +1,8 @@
+<Alloy>
+  <Window id="win">
+    <View class="container" layout="vertical">
+      <Button onClick="closeWindow" top="40">Close Window</Button>
+      <WebView url="/webviews/chartjs.html" borderRadius="1" />
+    </View>
+  </Window>
+</Alloy>
